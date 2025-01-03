@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋 Welcome to my GitHub Profile
 
-<!--
-**cdadrianzen/cdadrianzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Carlos David Adrianzen Adanaque**, a passionate **Software Engineering Student** with a keen interest in backend development and constantly learning new technologies to improve my skills.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- **Java Backend Development** with a focus on **Spring Boot**
+- **Microservices Architecture**
+- **Database Management Systems** like **MySQL**, **SQL Server**, and **PostgreSQL**
+- **Docker & Kubernetes** for containerization and orchestration
+- **JUnit** for unit testing
+- **Angular** for frontend development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- **Languages:** Java, SQL, TypeScript
+- **Frameworks:** Spring Boot, Angular
+- **Databases:** MySQL, SQL Server, PostgreSQL
+- **Tools:** Docker, Kubernetes, Git
+- **Testing:** JUnit
+
+Thanks for visiting my profile! Let's build something amazing together 🚀.
+
+
